@@ -28,15 +28,16 @@ December 7, San Francisco, California*
 
 | Time          | Topic                            |
 | ------------- | -------------------------------- |
-|  8:00 - 8:15  | Welcome, intros, setup           |
-|  8:15 - 9:30  | Intro to *landlab*               |
+|  8:00 - 8:30  | Welcome, intros, setup           |
+|  8:30 - 9:30  | Intro to *landlab*               |
 |  9:30 - 9:45  | Break                            |
 |  9:45 - 11:00 | Intro to *pymt*                  |
-| 11:00 - 12:15 | TBD                              |
+| 11:00 - 12:15 | Hands-on Example Notebooks       |
 | 12:15 - 13:15 | Lunch                            |
-| 13:15 - 14:30 | TBD                              |
+| 13:15 - 14:30 | Hands-on Example Notebook        |
 | 14:30 - 14:45 | Break                            |
-| 14:45 - 16:00 | TBD                              |
+| 14:45 - 15:15 | Breakouts and brainstorms        |
+| 15:15 - 16:00 | Future research directions       |
 
 
 ## The Requirements
