@@ -26,18 +26,18 @@ December 7, San Francisco, California*
 
 ## The Plan
 
-| Time          | Topic                            |
-| ------------- | -------------------------------- |
-|  8:00 - 8:30  | Welcome, intros, setup           |
-|  8:30 - 9:30  | Intro to *landlab*               |
-|  9:30 - 9:45  | Break                            |
-|  9:45 - 11:00 | Intro to *pymt*                  |
-| 11:00 - 12:15 | Hands-on Example Notebooks       |
-| 12:15 - 13:15 | Lunch                            |
-| 13:15 - 14:30 | Hands-on Example Notebook        |
-| 14:30 - 14:45 | Break                            |
-| 14:45 - 15:15 | Breakouts and brainstorms        |
-| 15:15 - 16:00 | Future research directions       |
+| Time          | Topic                                  |
+| ------------- | -------------------------------------- |
+|  8:00 - 8:30  | Welcome, intros, setup                 |
+|  8:30 - 9:30  | Intro to *landlab*                     |
+|  9:30 - 9:45  | Break                                  |
+|  9:45 - 10:45 | Intro to *pymt*                        |
+| 10:45 - 12:00 | Building coupled models with *landlab* |
+| 12:00 - 13:15 | Lunch (on our own)                     |
+| 13:15 - 14:30 | Building coupled models with *pymt*    |
+| 14:30 - 14:45 | Break                                  |
+| 14:45 - 15:15 | Breakouts and brainstorms              |
+| 15:15 - 16:00 | Future research directions             |
 
 
 ## The Requirements
