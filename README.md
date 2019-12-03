@@ -1,7 +1,6 @@
 # Exploring Surface Processes: How to Build Coupled Models
 
-*A workshop at the 2019 AGU Fall Meeting,
-December 7, San Francisco, California*
+A workshop at the 2019 AGU Fall Meeting.
 
 ## Instructors
 
@@ -14,18 +13,26 @@ December 7, San Francisco, California*
 ## Before the workshop
 
 1. **Sign up for an account (see below)**: We'll do all of our
-   computation on the CSDMS JupyterHub. This means that we won't have
+   computational work on the CSDMS JupyterHub. This means that we won't have
    to spend time installing software during the workshop.
-1. **Review the basics of working with Python and the Jupyter Notebook
-   interface**: There are many online resources. Coding experience is
-   not a prerequisite for this workshop and we will explain core
-   concepts as we go along.
+1. **Review the basics of working with Python and Jupyter Notebook**:
+   There are many online resources. Coding experience is not a
+   prerequisite for this workshop and we will explain core concepts as
+   we go along.
 1. **Background reading**: Read the
    [Hobley et al., 2017](https://www.earth-surf-dynam.net/5/21/2017/esurf-5-21-2017.html)
    open source paper about Landlab
 
+## Venue
 
-## The Plan
+[Grand Hyatt San Francisco](https://www.google.com/maps/place/Grand+Hyatt+San+Francisco/@37.7888201,-122.4079535,18z/data=!4m8!3m7!1s0x0:0x2490f4f016e18dcf!5m2!4m1!1i2!8m2!3d37.7891412!4d-122.4072161)  
+345 Stockton St  
+San Francisco, CA 94108  
+GH West  
+
+## Agenda
+
+The workshop will be held on Sunday December 8, 2019.
 
 | Time          | Topic                                  |
 | ------------- | -------------------------------------- |
@@ -41,7 +48,7 @@ December 7, San Francisco, California*
 | 15:15 - 16:00 | Future research directions             |
 
 
-## The Requirements
+## Requirements
 
 * Laptop
 * Web browser
