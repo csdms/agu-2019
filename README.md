@@ -5,10 +5,11 @@ December 7, San Francisco, California*
 
 ## Instructors
 
-* Andrew Ashton
-* Nicole Gasparini
-* Irina Overeem
-* Mark Piper
+* [Andrew Ashton](https://www2.whoi.edu/staff/aashton/)
+* [Nicole Gasparini](https://sse.tulane.edu/eens/faculty/gasparini)
+* [Nathan Lyons](https://sse.tulane.edu/eens/faculty/lyons)
+* [Irina Overeem](https://www.colorado.edu/geologicalsciences/irina-overeem)
+* [Mark Piper](https://instaar.colorado.edu/people/mark-piper/)
 
 ## Before the workshop
 
