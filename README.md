@@ -1,6 +1,6 @@
 # Exploring Surface Processes: How to Build Coupled Models
 
-A workshop at the 2019 AGU Fall Meeting.
+*A hands-on workshop on model coupling at the 2019 AGU Fall Meeting*
 
 ## Instructors
 
