@@ -28,7 +28,7 @@ A workshop at the 2019 AGU Fall Meeting.
 [Grand Hyatt San Francisco](https://www.google.com/maps/place/Grand+Hyatt+San+Francisco/@37.7888201,-122.4079535,18z/data=!4m8!3m7!1s0x0:0x2490f4f016e18dcf!5m2!4m1!1i2!8m2!3d37.7891412!4d-122.4072161)  
 345 Stockton St  
 San Francisco, CA 94108  
-GH West  
+Fillmore (Level 1B)  
 
 ## Agenda
 
