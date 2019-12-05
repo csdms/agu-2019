@@ -13,8 +13,9 @@
 ## Before the workshop
 
 1. **Sign up for an account (see below)**: We'll do all of our
-   computational work on the CSDMS JupyterHub. This means that we won't have
-   to spend time installing software during the workshop.
+   computational work on the [CSDMS JupyterHub](https://csdms.rc.colorado.edu).
+   This means that we won't have to spend time installing software
+   during the workshop.
 1. **Review the basics of working with Python and Jupyter Notebook**:
    There are many online resources. Coding experience is not a
    prerequisite for this workshop and we will explain core concepts as
