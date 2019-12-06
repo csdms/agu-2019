@@ -61,8 +61,7 @@ The workshop will be held on Sunday December 8, 2019.
 1. [Create an account](https://csdms.rc.colorado.edu/hub/signup) on the CSDMS JupyterHub
 2. Provide a username and password - it can be whatever you like
 3. Wait for authorization - this will happen the morning of the workshop
-4. [Get the landlab tutorials](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Flandlab%2Ftutorials&urlpath=tree%2Ftutorials%2Fsyllabus.ipynb&branch=v2_dev)
-5. [Get the pymt tutorials](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fagu-2019&urlpath=tree%2Fagu-2019%2Fnotebooks%2Findex.ipynb&branch=mdpiper%2Fupdate-notebooks)
+4. [Get the workshop tutorials](https://csdms.rc.colorado.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcsdms%2Fagu-2019&urlpath=tree%2Fagu-2019%2Fnotebooks%2Findex.ipynb&branch=master)
 
 
 ### Note to admins
@@ -88,6 +87,7 @@ A big thanks to those that contributed notebooks to this clinic.
 *  Katy Barnhart
 *  Nicole Gasparini
 *  Albert Kettner
+*  Nathan Lyons
 *  Margaux Mouchene
 *  Irina Overeem
 *  Katherine Ratliff
